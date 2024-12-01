@@ -25,4 +25,4 @@ client.on('ready', async () => {
     loop()
 })
 
-client.login(process.env.TOKEN)
+client.login(process.env.OKEN)
